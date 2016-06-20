@@ -19,15 +19,6 @@
 /.idea/
 /app/*.iml
 *.iml
-
-# OS-specific files
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-
-# Android Studio Navigation editor temp files
-.navigation
+gradle.properties
+gradlew
+gradlew.bat
