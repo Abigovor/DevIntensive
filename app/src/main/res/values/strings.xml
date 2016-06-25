@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Метальников Василий</string>
+    <string name="rating">Рейтинг</string>
+    <string name="count_rating">5</string>
+    <string name="string_code">Строчек кода</string>
+    <string name="count_code">5</string>
+    <string name="project">Проектов</string>
+    <string name="count_project">5</string>
+
+    <string name="phone_hint">Мобильный телефон</string>
+    <string name="phone_text">+7(965)775-46-26</string>
+    <string name="email_hint">E-mail</string>
+    <string name="email_text"></string>
+    <string name="github_hint">Репозиторий</string>
+    <string name="github_text">https://github.com/Abigovor/DevIntensive</string>
+    <string name="vk_hint">Профиль VK</string>
+    <string name="vk_text">https://vk.com/id190604763</string>
+    <string name="about_hint">О себе</string>
+    <string name="about_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci animi impedit tempore veritatis. Aliquam animi assumenda distinctio dolores esse eum fugiat hic impedit labore non recusandae, rem, temporibus totam vel.</string>
 </resources>
