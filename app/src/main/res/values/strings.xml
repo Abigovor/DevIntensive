@@ -10,7 +10,7 @@
     <string name="phone_hint">Мобильный телефон</string>
     <string name="phone_text">+7(965)775-46-26</string>
     <string name="email_hint">E-mail</string>
-    <string name="email_text"></string>
+    <string name="email_text">example@gmail.com</string>
     <string name="github_hint">Репозиторий</string>
     <string name="github_text">https://github.com/Abigovor/DevIntensive</string>
     <string name="vk_hint">Профиль VK</string>
